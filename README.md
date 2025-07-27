@@ -1,1 +1,2 @@
 # Omnia-Panel
+Omnia Panel é uma plataforma web moderna com painel administrativo que une funcionalidades reais a vulnerabilidades propositalmente inseridas para treinamento e prática de cibersegurança ofensiva. O sistema serve como ambiente seguro para explorar e aprender sobre falhas comuns como SQL Injection, XSS, IDOR, CSRF, entre outras, ao mesmo tempo que apresenta boas práticas em outras áreas do código.
